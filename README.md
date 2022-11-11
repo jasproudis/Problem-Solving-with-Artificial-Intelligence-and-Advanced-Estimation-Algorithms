@@ -14,7 +14,7 @@ After the end of the teaching module, the trainee will be able to:
 6) Define the concept of ignorance and its forms and describe learning methods (supervised, unsupervised, reinforcement).
 7) Describe the basic modeling process and criteria for selecting models and parameters and define the concept of regression.
 8) Designs, implements and uses learning algorithms in various scientific fields.
-- Subsections
+## Subsections
 1) Representation models, uncertainty, statistics, ambiguity
 2) Model simulation (Monte Carlo)
 3) Optimum search (heuristic and genetic algorithms)
@@ -31,7 +31,7 @@ After the end of the teaching module, the trainee will be able to:
 4) Describes artificial neural networks, their types and their implementations.
 5) Recognize the categories of problems and choose the appropriate artificial intelligence method to solve them.
 6) Designs and implements algorithms to solve problems in various scientific fields.
-- Subsections
+## Subsections
 1) Machine Learning – Pattern Recognition and Artificial Intelligence
 2) Classification (Linear Classification, k-NN, Bayesian, SVM) and decisions
 3) Clustering (k-means) and correlation
@@ -49,7 +49,7 @@ After the end of the teaching module, the trainee will be able to:
 4) Solves the Riccati equation used in steady state Kalman filters.
 5) Recognizes non-linear prediction and estimation models and the extended Kalman filter.
 6) Design and program Kalman filters to solve problems in various scientific fields.
-- Subsections
+## Subsections
 1) Valuation theory
 2) Linear Kalman filter
 3) Steady state
