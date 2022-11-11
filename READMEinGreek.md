@@ -1,6 +1,6 @@
 # Problem-Solving-with-Artificial-Intelligence-and-Advanced-Estimation-Algorithms
 
- Διδακτικές Ενότητες
+ ## Διδακτικές Ενότητες
 
    # 1 Αβεβαιότητα, αναζήτηση γνώσης και εκμάθηση
     Μαθησιακά Αποτελέσματα
