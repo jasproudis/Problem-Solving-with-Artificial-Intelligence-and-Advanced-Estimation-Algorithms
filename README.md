@@ -1,6 +1,6 @@
 # Problem-Solving-with-Artificial-Intelligence-and-Advanced-Estimation-Algorithms
 
-• Teaching Modules
+## Teaching Modules
 
 # 1 Uncertainty, knowledge seeking and learning
 
